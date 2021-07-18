@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on beautifully designed swiftui apps.
 - 🌱 I’m currently learning swiftui advanced design techniques.
 
-![TeemoTraders's github stats](https://github-readme-stats.vercel.app/api?username=TeemoTrader)
+![TeemoTraders's github stats](https://github-readme-stats.vercel.app/api?username=TeemoTrader&hide=prs,issues,contribs)
 
 
 <!--
