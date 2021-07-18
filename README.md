@@ -1,6 +1,9 @@
-### Hi there 👋
+### Austin Norman 👋
+- 🔭 I’m currently working on beautifully designed swiftui apps.
+- 🌱 I’m currently learning swiftui advanced design techniques.
 
 ![TeemoTraders's github stats](https://github-readme-stats.vercel.app/api?username=TeemoTrader)
+
 
 <!--
 **TeemoTrader/TeemoTrader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
