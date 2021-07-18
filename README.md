@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning swiftui advanced design techniques.
 
 ![TeemoTraders's github stats](https://github-readme-stats.vercel.app/api?username=TeemoTrader&hide=issues,contribs&show_icons=true&theme=blue-green)
+images.githubusercontent.com/86624629/126078329-9ee33cb1-83f8-44c4-bfab-746d764b92e7.png
 
 
 <!--
