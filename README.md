@@ -1,3 +1,4 @@
+<div align="center"> 
 ### Austin Norman 👋
 - 🔭 I’m currently working on beautifully designed SwiftUI apps.
 - 🌱 I’m currently learning SwiftUI advanced design techniques.
