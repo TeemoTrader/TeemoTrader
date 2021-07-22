@@ -1,9 +1,9 @@
 <div align="center"> 
   <h3>Hi there! 👋🤓<br>My name is Austin Norman<br>I'm An Early Crypto Investor / eCommerce Expert<br>Turned  iOS App Developer & Designer</h3>
 
-- 🔭 I’m currently working on beautifully designed SwiftUI apps.<br>
-- 🌱 I’m currently learning SwiftUI advanced design techniques.<br>
-- 🤔 Click my pinned repositories and check the README for images of all my apps!<br>
+- 🔭 I’m currently working on beautifully designed SwiftUI apps 🔭<br>
+- 🌱 I’m currently learning SwiftUI advanced design techniques 🌱<br>
+- 🤔 Click my pinned repositories and check the README for images of all my apps! 🤔 <br>
 
 ![TeemoTraders's github stats](https://github-readme-stats.vercel.app/api?username=TeemoTrader&hide=issues,contribs&show_icons=true&theme=blue-green)
 
