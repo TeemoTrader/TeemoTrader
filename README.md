@@ -5,7 +5,7 @@
 
 ![TeemoTraders's github stats](https://github-readme-stats.vercel.app/api?username=TeemoTrader&hide=issues,contribs&show_icons=true&theme=blue-green)
 
-![](https://img.shields.io/badge/<Operating_System>-<iOS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Operating_System-iOS_&_Mac_OS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 
