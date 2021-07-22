@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h3>Hi there! 👋🤓<br>My name is Austin Norman<br>I'm an iOS App Developer, Designer,<br>Content Creator, Early Crypto Investor and eCommerce Expert</h3>
+  <h3>Hi there! 👋🤓<br>My name is Austin Norman<br>I'm an iOS App Developer & Designer,<br>Early Crypto Investor, & eCommerce Expert</h3>
 Austin Norman 👋
 - 🔭 I’m currently working on beautifully designed SwiftUI apps.
 - 🌱 I’m currently learning SwiftUI advanced design techniques.
